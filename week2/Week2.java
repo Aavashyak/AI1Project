@@ -1,3 +1,4 @@
+package week2;
 public class Week2 //data types
 {
     public static void main (String args[])
